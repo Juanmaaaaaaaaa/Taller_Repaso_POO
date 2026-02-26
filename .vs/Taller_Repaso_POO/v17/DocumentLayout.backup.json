@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Taller_Repaso_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B7B56-EE0D-47DD-872C-9CF4C785636F}|Taller_Repaso\\Taller_Repaso.csproj|c:\\users\\notjm\\onedrive\\documentos\\github\\taller_repaso_poo\\taller_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B7B56-EE0D-47DD-872C-9CF4C785636F}|Taller_Repaso\\Taller_Repaso.csproj|solutionrelative:taller_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Taller_Repaso_POO\\Taller_Repaso\\Program.cs",
+              "RelativeDocumentMoniker": "Taller_Repaso\\Program.cs",
+              "ToolTip": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Taller_Repaso_POO\\Taller_Repaso\\Program.cs",
+              "RelativeToolTip": "Taller_Repaso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:47:12.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
