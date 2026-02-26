@@ -3,3 +3,13 @@ C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\De
 C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.AssemblyInfo.cs
 C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.csproj.CoreCompileInputs.cache
 C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.sourcelink.json
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\bin\Debug\net8.0\Taller_Repaso.exe
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\bin\Debug\net8.0\Taller_Repaso.deps.json
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\bin\Debug\net8.0\Taller_Repaso.runtimeconfig.json
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\bin\Debug\net8.0\Taller_Repaso.dll
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\bin\Debug\net8.0\Taller_Repaso.pdb
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.dll
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\refint\Taller_Repaso.dll
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.pdb
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.genruntimeconfig.cache
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\ref\Taller_Repaso.dll

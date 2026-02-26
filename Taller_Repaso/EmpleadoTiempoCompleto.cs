@@ -1,14 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
 
 public class EmpleadoTiempoCompleto : Empleado
 {
-	public double SalarioFijo { get; set}
-	{
+	public double SalarioFijo { get; }
+	
 	public EmpleadoTiempoCompleto(int id, string nombre, double salarioFijo)
 		: base(id, nombre)
 
 	{
-		salarioFijo = salarioFijo;
+		SalarioFijo = 3000000;
 	}
 
     public override double CalcularSalario()
@@ -16,10 +17,10 @@ public class EmpleadoTiempoCompleto : Empleado
 		return SalarioFijo;
 	}
 
-	public override void MostrarInformación()
+	public override void MostrarInformacion()
 	{
 		base.MostrarInformacion();
-		console.WriteLine("Tipo de empleado: Tiempo Completo");
-		console.WriteLine("Salario $" + CalcularSalario());
+		Console.WriteLine("Tipo de empleado: Tiempo Completo");
+		Console.WriteLine("Salario $" + CalcularSalario());
 	}
 }

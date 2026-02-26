@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 public class EmpleadoPorHoras : Empleado
 {
@@ -11,7 +12,7 @@ public class EmpleadoPorHoras : Empleado
         ValorPorHora = valorPorHora;
     }
 
-    public override double CalculaSalario()
+    public override double CalcularSalario()
     {
         return HorasTrabajadas * ValorPorHora;
     }
@@ -19,7 +20,7 @@ public class EmpleadoPorHoras : Empleado
     public override void MostrarInformacion()
     {
         base.MostrarInformacion();
-        Console.WriteLine("Tipo: Por Horas");
-        Console.WriteLine("Salario: $" + CalculoSalario());
+        Console.WriteLine("Tipo de empleado: Por Horas");
+        Console.WriteLine("Salario: $" + CalcularSalario());
     }
 }
