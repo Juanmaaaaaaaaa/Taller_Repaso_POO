@@ -4,12 +4,12 @@ using System.Collections.Generic;
 public class EmpleadoPorHoras : Empleado
 {
     public int HorasTrabajadas { get; set; }
-    public double ValorPorHora { get; set; }
+    public double ValorPorHora { get;  }
 
-    public EmpleadoPorHoras(int id, string nombre, int horasTrabajadas, double valorPorHora) : base(id, nombre)
+    public EmpleadoPorHoras(int id, string nombre, int horasTrabajadas) : base(id, nombre)
     {
         HorasTrabajadas = horasTrabajadas;
-        ValorPorHora = valorPorHora;
+        ValorPorHora = 200;
     }
 
     public override double CalcularSalario()

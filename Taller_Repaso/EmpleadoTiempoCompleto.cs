@@ -5,7 +5,7 @@ public class EmpleadoTiempoCompleto : Empleado
 {
 	public double SalarioFijo { get; }
 	
-	public EmpleadoTiempoCompleto(int id, string nombre, double salarioFijo)
+	public EmpleadoTiempoCompleto(int id, string nombre)
 		: base(id, nombre)
 
 	{
