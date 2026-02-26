@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taller_Repaso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57842b28bdea6bfc6b7dd6144f92afbe6fa3d9c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91392b16ecedc5e0f22e8375abf432c6238659dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taller_Repaso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taller_Repaso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
