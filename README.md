@@ -5,6 +5,7 @@ INTEGRANTES:
 - ⭐Sara Ruiz Arboleda | ID: 000542378
 
 CONSIDERACIONES DE DISEÑO E IMPLEMENTACIÓN:
+
 Para hacer este ejercicio Lo primero que hicimos fue crear una clase abstracta empleado la cual va a ser la super clase para las demás clases. A esto le agregamos dos atributos, uno que será el Id y lo pusimos tipo int ya que será el número lo represente y el nombre del empleado.
 
 Estas clases las hicimos públicas ya que no hubo necesidad de que fuese privado. 
