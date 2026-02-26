@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Empleado
+public abstract class Empleado
 {
     public int Id { get; set; }
     public string Nombre { get; set; }
@@ -10,8 +10,9 @@ public class Empleado
         Nombre = nombre;
 
     }
-    public int CalcularSalario()
+    public abstract int CalcularSalario()
     {
+
     }
     public void MostrarInformacion()
     {
@@ -20,3 +21,5 @@ public class Empleado
     }
 
 }
+
+
