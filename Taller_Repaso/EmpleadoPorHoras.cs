@@ -4,7 +4,7 @@ using System.Collections.Generic;
 public class EmpleadoPorHoras : Empleado
 {
     public int HorasTrabajadas { get; set; }
-    public double ValorPorHora { get;  }
+    private double ValorPorHora { get;}
 
     public EmpleadoPorHoras(int id, string nombre, int horasTrabajadas) : base(id, nombre)
     {

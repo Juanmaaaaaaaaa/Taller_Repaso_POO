@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class EmpleadoTiempoCompleto : Empleado
 {
-	public double SalarioFijo { get; }
+	private double SalarioFijo { get;}
 	
 	public EmpleadoTiempoCompleto(int id, string nombre)
 		: base(id, nombre)
