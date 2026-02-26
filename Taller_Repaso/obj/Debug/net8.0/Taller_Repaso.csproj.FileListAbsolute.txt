@@ -1,0 +1,5 @@
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.AssemblyInfoInputs.cache
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.AssemblyInfo.cs
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.csproj.CoreCompileInputs.cache
+C:\Users\notjm\OneDrive\Documentos\GitHub\Taller_Repaso_POO\Taller_Repaso\obj\Debug\net8.0\Taller_Repaso.sourcelink.json
