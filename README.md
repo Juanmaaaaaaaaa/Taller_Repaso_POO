@@ -16,7 +16,7 @@ Luego se crean las dos clases hijas. Primero, la de tiempo completo tiene un nue
 
 Después esta la clase de empleado por horas, que necesita otros dos atributos. Uno sobre las horas trabajadas y otro del valor por hora, a ese le pusimos un valor fijo. Entonces en el método de calcular salario ahora lo que devuelve es las horas trabajadas multiplicadas por el valor por hora y en el ultimo método de mostrar la información es lo mismo que en el anterior que también e muestra el salario y el tipo de empleado.
 
-Por el lado del encapsulamiento aunque todas las variables sean publicas, algunas las pusimos de tal manera se pudieran leer pero que no se pudieran acceder para cambiar el valor, esto lo hicimos, por ejemplo, en los atributos encargados de asignar el salario.
+Por el lado del encapsulamiento algunas las pusimos de tal manera se pudieran leer pero que no se pudieran acceder para cambiar el valor, esto lo hicimos, por ejemplo, en los atributos encargados de asignar el salario dodne  el acceso es privado pero con get para poder verlo en la misma clase.
 
 Por ultimo en el main creamos una lista de empleados y dentro de esta lista instanciamos a todos los empleados añadiendo nuevos objetos de tipo empleado pero para que se pudieran instanciar fueran e las clases hijas. 
 
